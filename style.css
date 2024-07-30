@@ -1,0 +1,31 @@
+
+*{
+    font-family: "Poppins", sans-serif;
+}
+
+    
+.nav-item a{
+ color: #F28482;;
+}
+#boton-yo{
+background-color: #F28482;
+}
+.nav-item a:hover{
+    color: #84A59D;
+}
+#foto{
+    border-radius: 49%;
+}
+#boton1{
+    background-color:#F28482;
+    border-color:#F28482;
+ }
+.feature-icon .bi{
+    background-color: white;
+    color: #F28482;
+    border-color: #F28482;
+    height: 70px;
+    width: 70px;
+    font-size: 1.5cm;
+    border-radius: 50px; 
+}
