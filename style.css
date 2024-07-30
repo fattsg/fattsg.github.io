@@ -21,11 +21,16 @@ background-color: #F28482;
     border-color:#F28482;
  }
 .feature-icon .bi{
-    background-color: white;
+    background-color: #F7EDE2;
     color: #F28482;
     border-color: #F28482;
     height: 70px;
     width: 70px;
     font-size: 1.5cm;
     border-radius: 50px; 
+}
+#featured-3{
+    background-color: #F7EDE2;
+    height: 450px;
+    border-radius: 25px;
 }
