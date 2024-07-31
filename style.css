@@ -34,3 +34,20 @@ background-color: #F28482;
     height: 450px;
     border-radius: 25px;
 }
+#b{
+    border-color: #F28482;
+    color: #F28482;
+}
+footer{
+    background-color: #F7EDE2;
+}
+footer .icone-footer i{
+    color:#F28482;
+}
+footer p{
+    color: #F28482;
+}
+footer p a{
+    color: #F28482;
+    text-decoration: none;
+}
